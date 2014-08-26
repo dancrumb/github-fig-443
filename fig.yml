@@ -1,0 +1,4 @@
+loader:
+ build: "./data.transporter"
+ volumes:
+ - "./foo:/snapshot/"
